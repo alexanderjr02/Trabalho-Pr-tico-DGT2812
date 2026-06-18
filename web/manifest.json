@@ -1,0 +1,11 @@
+{
+  "name": "Explore Mundo",
+  "short_name": "Explore Mundo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "description": "Aplicativo da agencia Explore Mundo.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
